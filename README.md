@@ -1,2 +1,0 @@
-# sepa-explorer
-eurozone
